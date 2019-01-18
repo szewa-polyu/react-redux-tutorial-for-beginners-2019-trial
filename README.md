@@ -1,3 +1,6 @@
+Attempt to follow the "React Redux Tutorial for Beginners: The Definitive Guide (2019)" tutorial: https://www.valentinog.com/blog/redux/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
